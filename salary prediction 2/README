@@ -1,1 +1,1 @@
-Compared Linear Regression and Polynomial Regression models to predict an accurate estimated salary to be offered to a professional based on his Designation and Pay in the previous Organization.
+Compared Multiple Linear Regression, Polynomial Regression, SVR Regression models to predict an accurate estimated salary to be offered to a professional based on his Designation, Level and Pay in the previous Organization.
